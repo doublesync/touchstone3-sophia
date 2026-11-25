@@ -1,0 +1,91 @@
+nstructions
+Step 1: Review Your Previous Website
+
+Open the multi-page website you created in Touchstone Task 2 . Use the same client you selected previously.
+
+If needed, revisit the original client page:
+Client Information Page (Touchstone Task 2)
+Review the updated design expectations here:
+Client Information Touchstone 3
+Make any small content updates before applying styles.
+Step 2: Apply CSS to Create a Visual Design System
+
+Create or update your external CSS file.
+
+Apply consistent colors, typography, and spacing across all pages
+Style repeated elements such as navigation, headings, sections, and forms
+As you apply styles, follow these guidelines:
+
+Use 2 to 4 main colors across your website
+Use no more than 2 font families
+Apply styles consistently across all pages
+Ensure text is readable against background colors
+Content should be easy to read and scan, meaning users can quickly skim headings, sections, and key information without reading every word.
+Step 3: Implement Responsive Layout
+
+Use a mobile-first approach when styling your pages
+Use Flexbox to organize your layout across your pages
+Add at least one media query to adjust layout for larger screens
+Ensure content remains readable and usable across screen sizes
+Focus on maintaining readability and clear structure as the layout changes.
+Step 4: Complete the Design Explanation Document
+
+In addition to your website, complete the design explanation in the:
+
+ download
+Touchstone 3 Template
+
+Your explanation should focus on your design decisions.
+
+Client Alignment: Explain how your design choices support your selected client’s goals and audience.
+Color Palette: List the 2 to 4 main colors you used. Explain how these colors support your client’s tone and ensure readability.
+Typography: Identify the font or font pair you used. Explain how your choices support readability and create visual hierarchy.
+Responsive Design: Describe how your layout adapts across screen sizes. Include at least one example of a layout or spacing change.
+Design Challenge: Describe one design challenge you encountered and how you addressed it.
+Step 5: Submit Your Work
+
+Submit your updated website files, including HTML and CSS.
+
+Include a link to your GitHub Repository
+Upload your completed design explanation document
+Review your work to confirm that layout, styling, and links function correctly
+Important: You will submit all components as a single file for this Touchstone. Submit the completed Touchstone 3 template with the GitHub Repository link to your project.
+Sharing Your GitHub Repository
+
+Your project is hosted on GitHub. Make sure your repository is public and accessible before submitting your link:
+Open your repository on GitHub
+Check whether it is labeled Public near the top of the page
+If it is Private:
+Go to Settings
+Select Change repository visibility
+Choose Make public and confirm
+Copy the repository URL from your browser
+Paste the link into your Touchstone submission
+Tip: Open your link in a private or incognito browser window to confirm it works without logging in.
+Rubric
+ 	Advanced	Proficient	Acceptable	Needs Improvement	Non-Performance
+Visual Design System
+Consistency and application of color, typography, and overall visual style.
+
+25%
+Uses 2–4 colors and no more than 2 fonts consistently across all pages. Demonstrates a clear, cohesive visual style with strong visual hierarchy through color, typography, and spacing.	Uses 2–4 colors and no more than 2 fonts with mostly consistent application across pages. Visual hierarchy is clear with minor inconsistencies.	Uses colors and fonts but may exceed recommended limits or apply them inconsistently. Visual hierarchy is present but uneven or unclear in some areas.	Uses too many or too few colors or fonts, or applies them inconsistently. Visual hierarchy is weak or difficult to follow.	Little or no evidence of a consistent visual design system.
+Layout and Responsiveness
+Use of Flexbox, media queries, and layout adaptation across screen sizes.
+
+25%
+Uses Flexbox effectively and includes at least one media query. Layout adapts clearly across screen sizes with maintained readability, structure, and usability.	Uses Flexbox and includes a media query. Layout adapts across screen sizes with minor issues in readability or spacing.	Uses Flexbox or a media query, but layout adjustments are limited or inconsistent. Some responsiveness issues affect usability.	Minimal or ineffective use of Flexbox or media queries. Layout does not adapt well across screen sizes.	No evidence of responsive design or layout techniques.
+Readability and Usability
+Text readability, contrast, spacing, and overall usability.
+
+20%
+Text is consistently readable with strong contrast. Spacing, visual alignment, and structure support clear navigation and content scanning across all pages.	Text is readable with generally appropriate contrast. Spacing and layout support usability with minor issues.	Text is mostly readable but may include some contrast or spacing issues. Usability is somewhat inconsistent.	Readability issues are present due to poor contrast, spacing, or layout. Usability is limited.	Text is difficult to read or layout significantly hinders usability.
+Client Alignment and Design Decisions
+How well design choices support the selected client’s purpose and audience.
+
+15%
+Design choices clearly and effectively support the client’s purpose, audience, and tone. Strong alignment with client needs is evident across all pages.	Design choices generally support the client’s purpose and audience with minor gaps in alignment.	Some design choices reflect the client, but alignment is inconsistent or unclear.	Limited connection between design choices and client purpose or audience.	No clear connection between design and client needs.
+Design Explanation
+Clarity, specificity, and use of examples in written responses.
+
+15%
+Provides clear, specific explanations for all prompts. References multiple concrete examples from the website. Responses are fully developed (about 2–4 sentences per section) and demonstrate strong understanding of design decisions. Includes a relevant screenshot that clearly supports a described design decision.	Provides clear explanations with at least one specific example per section. Responses are complete (about 1–3 sentences per section) and demonstrate good understanding. Includes a screenshot that relates to a design decision.	Provides basic explanations with limited or general examples. Some responses lack specificity or are underdeveloped. Screenshot may be missing, unclear, or weakly connected to the explanation.	Responses are vague, incomplete, or lack specific examples from the website. Screenshot is missing or not relevant.	Missing or minimal explanation responses.
